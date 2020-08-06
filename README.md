@@ -1,6 +1,4 @@
 ### Hello there
-<pre>
-    👁️👄👁️ *...(Enojying some swedish sphagetti. This github is full of it)*  
- 🍝 🥄👕🤙  
-      👠👠  
- </pre>
+
+ &nbsp; &nbsp; &nbsp;   👁️👄👁️ *...(Enojying some swedish sphagetti. This github is full of it)*  
+&nbsp; &nbsp; &nbsp; 🍝  
